@@ -20,7 +20,7 @@ df=pd.DataFrame(exam_data,index=lab)
 print(df)
 ```
 ## Output
-<img width="1182" height="312" alt="image" src="https://github.com/user-attachments/assets/b2da9b40-3215-433a-b169-69e69b7cf48b" />
+<img width="959" height="244" alt="image" src="https://github.com/user-attachments/assets/86bec620-b634-4480-8d6a-e6d6a4041084" />
 
 
 ## Result
